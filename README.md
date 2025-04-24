@@ -9,4 +9,4 @@ npx cypress open
 
 ## Screenshots of the Test Cases Execution in Cypress
 
-![Screenshot-1](Screenshot_1.jpg)
+![Screenshot-1](screenshots/Screenshot_1.jpg)
